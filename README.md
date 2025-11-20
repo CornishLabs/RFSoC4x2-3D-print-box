@@ -9,3 +9,5 @@ Lid needs M3 countersunk screws.
 We use M3 socket cap screws for the board.
 
 ![RFSoC box assembly GIF](./fusion_pingpong_slow.gif)
+
+ Copyright (C) 2025 Tom Hepworth
