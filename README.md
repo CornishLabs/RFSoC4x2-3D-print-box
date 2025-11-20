@@ -1,4 +1,4 @@
-# RFSoC-3D-print-box
+# RFSoC4x2-3D-print-box
 A parametetrically designed box for the RFSoC 4x2, made with Autodesk Fusion.
 Has M3 heatset inserts for board mounting, and lid fastening.
 
